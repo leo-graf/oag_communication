@@ -10,7 +10,6 @@ dependencies[] = feeds_tamper
 dependencies[] = mailcomment
 dependencies[] = mailhandler
 dependencies[] = oa_mailhandler
-dependencies[] = oag_notifications
 dependencies[] = rules
 dependencies[] = strongarm
 dependencies[] = ultimate_cron
